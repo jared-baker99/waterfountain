@@ -1,0 +1,7 @@
+#content {
+    background-color: red;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}

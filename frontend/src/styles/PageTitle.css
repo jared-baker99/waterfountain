@@ -1,0 +1,50 @@
+*{
+    cursor: default;
+}
+
+button{
+    cursor: pointer;
+}
+
+.title-bar {
+    background-color: lightgray;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.column1{
+    float: left;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.column2{
+    margin: auto;
+}
+
+.btn-title {
+    border: none;
+    background-color: inherit;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 12px;
+    display: inline-block;
+}
+
+.btn-title:hover {
+    background-color: white;
+}
+
+.column3{
+    float: right;
+    margin-right: 10px;
+}
+
+
+
+  
